@@ -49,15 +49,6 @@ customer-churn-ann/
 
 
 
-## ⚙️ Installation
-
-  bash
-git clone https://github.com/yourusername/customer-churn-ann.git
-cd customer-churn-ann
-pip install -r requirements.txt
-
-
-
 
 ## ▶️ Usage
 
